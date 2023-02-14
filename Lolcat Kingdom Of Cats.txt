@@ -22,7 +22,7 @@
         "style": "Cat Empire",
         "uniqueName": "No Fud No Live. Saawd.",
         "uniques": [
-            "[+7 Production] from all [Water] buildings",
+            "[+7 Production] from all [Gold] buildings",
 	    "Gain a free [Search For Survivors] [in all cities]",
             "Starts with [Botany]"
             "This Unit gains the [Awe] promotion",
