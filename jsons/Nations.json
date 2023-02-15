@@ -23,8 +23,7 @@
         "uniqueName": "No Fud No Live. Saawd.",
         "uniques": [
             "[+7 Production] from all [Water] buildings",
-            "Starts with [Botany]"
-	    "This Unit gains the [March] promotion",
+            "Starts with [Botany]",
             "[-15]% Happiness <when at war>",
             "[+1 Gold, +2 Production, +15 Culture] per [3] population [in all cities]"
   // Uniques are now fixed
