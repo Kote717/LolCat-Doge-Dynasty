@@ -25,7 +25,7 @@
             "[+7 Production] from all [Water] buildings",
             "Starts with [Botany]",
             "[-15]% Happiness <when at war>",
-            "[+3 Gold, +2 Production, +1 Culture] per [3] population [in all cities]"
+            "[+2 Gold, +2 Production, +1 Culture] per [4] population [in all cities]"
   // Uniques are now fixed
         ],
         "cities": [
