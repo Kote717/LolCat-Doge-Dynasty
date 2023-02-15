@@ -23,13 +23,11 @@
         "uniqueName": "No Fud No Live. Saawd.",
         "uniques": [
             "[+7 Production] from all [Water] buildings",
-	    "Gain a free [Search For Survivors] [in all cities]",
             "Starts with [Botany]"
-            "This Unit gains the [Awe] promotion",
 	    "This Unit gains the [March] promotion",
-            "[-15]% Strength <when at war>",
+            "[-15]% Happiness <when at war>",
             "[+1 Gold, +2 Production, +15 Culture] per [3] population [in all cities]"
-  // Fake uniques to help understand the nation
+  // Uniques are now fixed
         ],
         "cities": [
             "Catland City",
