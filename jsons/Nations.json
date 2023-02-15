@@ -15,7 +15,7 @@
         "introduction": "Hewwo! I'm Caton IV. I hope you got some gudies which I can eat. hehe... You welcome!",
         "neutralHello": "Hewwo. Are you here to be my friend? Or not?",
         "hateHello": "You baad! you done terible things! I don't like you anymore!",
-        "tradeRequest": "Here some fair and tasty gudies!",/
+        "tradeRequest": "Here some fair and tasty gudies!",
 
         "outerColor": [27, 26, 117],
         "innerColor": [80, 44, 219],
@@ -35,6 +35,6 @@
 				"Lolcat's shelter",
 					"Deadly Cat Dawn",
 						"Lost claw city",
-							"Five Paws Fortpost"
+							"Five Paws Fortpost",
         ]
     }
