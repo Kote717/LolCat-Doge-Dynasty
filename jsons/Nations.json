@@ -2,12 +2,12 @@
 {
         "name": "LolCat Kingdom Of Cats",
         "leaderName": "Caton IV",
-        "adjective": ["Paradisians"],
+        "adjective": ["Mighty Cats"],
         "startBias": ["Badlands"],
           "preferredVictoryType": "Diplomatic",
         //"favoredReligion": "Liberty",
 
-        /"startIntroPart1": "'You want Will Happened when radiotion is hits someone very hard? No? Then, with some low chance you will mutate. Why that is important? Well... You will get to be a civilization of cats which mutated and become a little bigger and stronger but the scariest thing they become smarter. Like humans, They rised from the ashes to capture human kind. Why you ask? Because they killed a lot of creatures and that is worst thing what anyone could do. (peace of lore) By the way (the Cats) don't annex or create genoside, they just want to rule the world only because humans dfinitely worst rulers.'",
+        /*"startIntroPart1": "'You want Will Happened when radiotion is hits someone very hard? No? Then, with some low chance you will mutate. Why that is important? Well... You will get to be a civilization of cats which mutated and become a little bigger and stronger but the scariest thing they become smarter. Like humans, They rised from the ashes to capture human kind. Why you ask? Because they killed a lot of creatures and that is worst thing what anyone could do. (peace of lore) By the way (the Cats) don't annex or create genoside, they just want to rule the world only because humans dfinitely worst rulers.'",
         "startIntroPart2": "'You are mighty leader of The Cats. Lead them to victory. Or else you gonna be defeated. And That what you don't want to do!'",
         "declaringWar": "As Cat leadew! The Caton IV himself! As mighty and gwowy cat! I chaleng u to de battle. In this battle we deside hoo gona be the best if I win you wil join my empire empire of mighty Lolcat. If you wonder who is Lolcat it's the powest cat in the world he was able to fight what we now call "The Patriots",
         "attacked": "Why would you do dis to me?! I'm veby sadd! U must pay!",
@@ -15,7 +15,7 @@
         "introduction": "Hewwo! I'm Caton IV. We wil repair this sawd world!",
         "neutralHello": "Hewwo! I'm Caton IV. I hope you got some gudies which I can eat. hehe... You welcome!",
         "hateHello": "You baad! you done terible things! I don't like you anymore!",
-        "tradeRequest": "Here some fair and tasty gudies!",/
+        "tradeRequest": "Here some fair and tasty gudies!",*/
 
       "outerColor": [27, 26, 117],
         "innerColor": [80, 44, 219],
@@ -38,3 +38,4 @@
 							"Five Paws Fortpost",
         ]
     },
+	]
