@@ -3,7 +3,7 @@
 		"name": "Building Squad",
 		"replaces": "Worker",
 		"unitType": "Civilian",
-		"uniqueTo": "Lolcat Kingdom",
+		"uniqueTo": "LolCat Kingdom",
 		"movement": 6,
 		"hurryCostModifier": 20,
 		"uniques": [
@@ -17,7 +17,7 @@
 {
 		"name": "Stealth Explorer",
 		"unitType": "Scout",
-		"uniqueTo": "Lolcat Kingdom",
+		"uniqueTo": "LolCat Kingdom",
 		"replaces": "Scout",
 		"movement": 4,
 		"strength": 12,
