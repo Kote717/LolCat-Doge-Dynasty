@@ -2,14 +2,15 @@
 	{
 		"name": "Building Squad",
 		"replaces": "Worker",
-		"unitType": "Civilian",
+		"unitType": "Scrapper",
 		"uniqueTo": "LolCat Kingdom",
-		"movement": 6,
+		"movement": 3,
+		"strength": 20,
 		"hurryCostModifier": 20,
 		"uniques": [
 			"Can build [Land] improvements on tiles",
 			"[-25]% tile improvement construction time"
-      "Uncapturable"
+      			"Uncapturable"
 		],
 		"cost": 65
 	},
@@ -19,9 +20,9 @@
 		"unitType": "Scout",
 		"uniqueTo": "LolCat Kingdom",
 		"replaces": "Scout",
-		"movement": 4,
+		"movement": 3,
 		"strength": 12,
-		"cost": 25,
+		"cost": 45,
 		"upgradesTo": "Gunman",
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Redomestication",
@@ -29,7 +30,7 @@
 			"Low Tech",
 			"[-75]% Strength <vs cities>",
 			"May withdraw before melee ([45]%)",
-			"[+3] Sight",
+			"[+2] Sight",
 		],
 		"promotions": ["Reconnaissance I", "Survivalism"],
 		"attackSound": "nonmetalhit"
