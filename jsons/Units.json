@@ -1,4 +1,5 @@
-{
+[
+	{
 		"name": "Building Squad",
 		"replaces": "Worker",
 		"unitType": "Civilian",
@@ -12,3 +13,24 @@
 		],
 		"cost": 65
 	},
+
+{
+		"name": "Stealth Explorer",
+		"unitType": "Scout",
+		"uniqueTo": "Lolcat Kingdom",
+		"replaces": "Scout",
+		"movement": 4,
+		"strength": 12,
+		"cost": 25,
+		"upgradesTo": "Rifleman",
+		"hurryCostModifier": 20,
+		"obsoleteTech": "Rifling",
+		"uniques": [
+			"Low Tech",
+			"[-75]% Strength <vs cities>",
+			"May withdraw before melee ([45]%)",
+			"[+3] Sight",
+		],
+		"promotions": ["Reconnaissance I", "Survivalist"],
+		"attackSound": "nonmetalhit"
+	}
