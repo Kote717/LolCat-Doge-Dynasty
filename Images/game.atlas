@@ -13,7 +13,7 @@ Building Squad
   index: -1
 TileSets/FantasyHex/Units/Building Squad
   rotate: false
-  xy: 752, 285
+  xy: 722, 255
   size: 220, 190
   orig: 220, 190
   offset: 0, 0
@@ -34,7 +34,7 @@ Stealth Explorer
   index: -1
 TileSets/FantasyHex/Units/Stealth Explorer
   rotate: false
-  xy: 752, 177
+  xy: 722, 147
   size: 210, 100
   orig: 210, 100
   offset: 0, 0
