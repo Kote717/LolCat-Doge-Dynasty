@@ -24,7 +24,7 @@
 		"cost": 25,
 		"upgradesTo": "Gunman",
 		"hurryCostModifier": 20,
-		"obsoleteTech": "Rifling",
+		"obsoleteTech": "Redomestication",
 		"uniques": [
 			"Low Tech",
 			"[-75]% Strength <vs cities>",
