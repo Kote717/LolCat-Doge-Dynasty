@@ -14,14 +14,14 @@ NationIcons/LolCat Kingdom
 TileSets/FantasyHex/Units/Building Squad
   rotate: false
   xy: 752, 285
-  size: 220, 190
+  size: 170, 160
   orig: 220, 190
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Stealth Explorer
   rotate: false
   xy: 752, 177
-  size: 210, 100
+  size: 180, 70
   orig: 210, 100
   offset: 0, 0
   index: -1
