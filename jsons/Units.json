@@ -22,7 +22,7 @@
 		"movement": 4,
 		"strength": 12,
 		"cost": 25,
-		"upgradesTo": "Rifleman",
+		"upgradesTo": "The Wheel",
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Rifling",
 		"uniques": [
