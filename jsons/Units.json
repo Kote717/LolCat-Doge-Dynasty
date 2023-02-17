@@ -1,1 +1,14 @@
-
+{
+		"name": "Building Squad",
+		"replaces": "Worker",
+		"unitType": "Civilian",
+		"uniqueTo": "Lolcat Kingdom",
+		"movement": 6,
+		"hurryCostModifier": 20,
+		"uniques": [
+			"Can build [Land] improvements on tiles",
+			"[-25]% tile improvement construction time"
+      "Uncapturable"
+		],
+		"cost": 65
+	},
