@@ -89,4 +89,6 @@
 			"[-1] Sight",
 			"Only available <if [Factory] is constructed>",
 			"Never appears as a Barbarian unit"
+			]
+	}
 ]
