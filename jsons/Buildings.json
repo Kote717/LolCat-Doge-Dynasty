@@ -31,14 +31,14 @@
 		"uniques": [
 			"Provides [1] [Weapons]"
 		]
-	},
-	{
-  "name": "Artillery.test",
-		"uniqueTo": "LolCat Kingdom",
-		"cost": 1,
-		"uniques": [
-			"Provides [1] [Weapons]"
-			"Free [Artillery] appears",
-		]
 	}
+	{
+//  "name": "Artillery.test",
+//		"uniqueTo": "LolCat Kingdom",
+//		"cost": 1,
+//		"uniques": [
+//			"Provides [1] [Weapons]"
+//			"Free [Artillery] appears",
+//		]
+//	}
   ]
