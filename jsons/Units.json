@@ -37,20 +37,20 @@
 	},
 	{
 		"name": "Genewal Comantr",
-		"uniqueTo": "LolCat Kindom",
+		"uniqueTo": "LolCat Kingdom",
 		"replaces": "Great General",
 		"strength": 85,
 		"hurryCostModifier": 30,
-		"unitType": "Scrapper",
-		"attackSound": "nonmetalhit",
+		"unitType": "Civilian",
 		"uniques": [
-			"Can start an [5]-turn golden age",
-			"[+25]% Strength bonus for [Military] units within [3] tiles",
+			"Can start an [6]-turn golden age",
+			"[+25]% Strength bonus for [Military] units within [2] tiles",
 			"[-5]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"Can construct [Citadel]",
+			"Great Person - [War]",
 			"Uncapturable",
 		],
-		"promotions": ["Awe", "Entrench"],
+		"promotions": ["Gas Mask", "Entrench"],
 		"movement": 3
 	}
 ]
