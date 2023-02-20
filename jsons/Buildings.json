@@ -30,7 +30,6 @@
 		"specialistSlots": { "Administrator": 1 },
 		"cost": 25,
 		"uniques": [
-			"Indicates the capital city",
 			"Provides [1] [Weapons]"
 		]
 	}
