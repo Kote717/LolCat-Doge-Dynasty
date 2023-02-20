@@ -48,7 +48,6 @@
 			"[+25]% Strength bonus for [Military] units within [3] tiles",
 			"[-5]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"Can construct [Citadel]",
-			"Great Person - [War]",
 			"Uncapturable",
 		],
 		"promotions": ["Awe", "Entrench"],
