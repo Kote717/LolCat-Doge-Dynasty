@@ -25,7 +25,6 @@
 		"cost": 45,
 		"upgradesTo": "Gunman",
 		"hurryCostModifier": 20,
-		"obsoleteTech": "Redomestication",
 		"uniques": [
 			"Low Tech",
 			"[-75]% Strength <vs cities>",
@@ -39,8 +38,9 @@
 		"name": "Genewal Comantr",
 		"uniqueTo": "LolCat Kingdom",
 		"replaces": "Great General",
-		"strength": 85,
+		"strength": 15,
 		"hurryCostModifier": 30,
+		"cost": 85,
 		"unitType": "Civilian",
 		"uniques": [
 			"Can start an [6]-turn golden age",
