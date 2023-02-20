@@ -41,7 +41,8 @@
 		"replaces": "Great General",
 		"strength": 85,
 		"hurryCostModifier": 30,
-		"unitType": "Civilian",
+		"unitType": "Scrapper",
+		"attackSound": "nonmetalhit",
 		"uniques": [
 			"Can start an [5]-turn golden age",
 			"[+25]% Strength bonus for [Military] units within [3] tiles",
