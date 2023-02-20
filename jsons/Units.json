@@ -44,9 +44,8 @@
 		"hurryCostModifier": 125,
 		"cost": 225,
 		"uniques": [
-			"Can start an [3]-turn golden age",
 			"[+25]% Strength <vs [Low Tech] units>",
-			"[+25]% Strength bonus for [Military] units within [2] tiles",
+			"[+15]% Strength bonus for [Military] units within [2] tiles",
 			"[-5]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"Uncapturable",
 		],
