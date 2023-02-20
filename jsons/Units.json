@@ -90,5 +90,18 @@
 			"Only available <if [Factory] is constructed>",
 			"Never appears as a Barbarian unit"
 			]
+	},
+	{
+		"name": "Overwatch",
+		"uniqueTo": "LolCat Kingdom",
+		"unitType": "Civilian",
+		"cost": 0,
+		"movement": 0,
+		"requiredTech": "Engineering",
+		"uniques": [
+			"[15] Sight",
+			"Never appears as a Barbarian unit"
+			"Unbuildable"
+			]
 	}
 ]
