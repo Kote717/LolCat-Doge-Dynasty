@@ -37,13 +37,15 @@
 	{
 		"name": "Genewal Comantr",
 		"uniqueTo": "LolCat Kingdom",
+		"unitType": "Shooter",
 		"replaces": "Hussar",
+		"rangedStrength": 35,
 		"strength": 15,
 		"hurryCostModifier": 125,
-		"cost": 155,
-		"unitType": "Civilian",
+		"cost": 225,
 		"uniques": [
 			"Can start an [3]-turn golden age",
+			"[+25]% Strength <vs [Low Tech] units>",
 			"[+25]% Strength bonus for [Military] units within [2] tiles",
 			"[-5]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"Uncapturable",
@@ -67,5 +69,23 @@
 		],
 		"promotions": ["Gas Mask", "Resupply"],
 		"movement": 2
-	}
+	},
+	{
+		"name": "Artillery",
+		"unitType": "Siege",
+		"range": 3,
+		"movement": 2,
+		"strength": 25,
+		"rangedStrength": 30,
+		"cost": 185,
+		"requiredTech": "Munitions",
+		"upgradesTo": "Rocket Artillery",
+		"uniques": [
+			"[+100]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"[-50]% Strength <vs [Helicopter] units>",
+			"Must set up to ranged attack",
+			"[-1] Sight",
+			"Only available <if [Factory] is constructed>",
+			"Never appears as a Barbarian unit"
 ]
