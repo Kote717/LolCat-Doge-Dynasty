@@ -49,7 +49,7 @@
 			"Can construct [Citadel]",
 			"Great Person - [War]",
 			"Uncapturable",
-			"attackSound": "nonmetalhit"
+			"attackSound": "nonmetalhit",
 		],
 		"promotions": ["Awe", "Entrench"],
 		"movement": 3
