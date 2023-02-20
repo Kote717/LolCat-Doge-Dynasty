@@ -19,7 +19,6 @@
 	},
   
   "name": "MarCat",
-		"isNationalWonder": true,
 		"uniqueTo": "LolCat Kingdom",
 		"replaces": "Market",
 		"food": 2,
