@@ -34,5 +34,24 @@
 		],
 		"promotions": ["Reconnaissance I", "Survivalism"],
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Genewal Comanter",
+		"uniqueTo": "LolCat Kindom",
+		"replaces": "Great General",
+		"strength": 85,
+		"hurryCostModifier": 30,
+		"unitType": "Civilian",
+		"uniques": [
+			"Can start an [5]-turn golden age",
+			"[+25]% Strength bonus for [Military] units within [3] tiles",
+			"[-5]% Strength for enemy [Military] units in adjacent [All] tiles",
+			"Can construct [Citadel]",
+			"Great Person - [War]",
+			"Uncapturable",
+			"attackSound": "nonmetalhit"
+		],
+		"promotions": ["Awe", "Entrench"],
+		"movement": 3
 	}
 ]
