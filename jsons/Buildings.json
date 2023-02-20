@@ -34,6 +34,7 @@
 	}, 
 	"name": "Rawdar Tovah",
 		"uniqueTo": "LolCat Kingdom",
+		"requiredTech": "Engineering",
 		"cost": 50,
 		"uniques": [
 			"Free [Overwatch] appears",
