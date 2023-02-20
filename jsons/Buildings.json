@@ -31,5 +31,10 @@
 		"uniques": [
 			"Provides [1] [Weapons]"
 		]
-	}
+	}, 
+	"name": "Rawdar Tovah",
+		"uniqueTo": "LolCat Kingdom",
+		"cost": 50,
+		"uniques": [
+			"Free [Overwatch] appears",
   ]
