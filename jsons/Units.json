@@ -96,12 +96,14 @@
 		"uniqueTo": "LolCat Kingdom",
 		"unitType": "Civilian",
 		"cost": 0,
-		"movement": 0,
+		"movement": -1,
 		"requiredTech": "Engineering",
 		"uniques": [
-			"[15] Sight",
+			"[7] Sight",
 			"Never appears as a Barbarian unit"
 			"Unbuildable"
+			"Uncapturable",
+			"promotions": ["Drone Recon"],
 			]
 	}
 ]
