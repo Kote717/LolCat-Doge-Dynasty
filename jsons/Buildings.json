@@ -31,5 +31,13 @@
 		"uniques": [
 			"Provides [1] [Weapons]"
 		]
+	},
+	{
+  "name": "Artillery.test",
+		"uniqueTo": "LolCat Kingdom",
+		"uniques": [
+			"Provides [1] [Weapons]"
+			"Free [Artillery] appears",
+		]
 	}
   ]
