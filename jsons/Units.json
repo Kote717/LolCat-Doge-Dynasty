@@ -103,7 +103,7 @@
 			"Never appears as a Barbarian unit"
 			"Unbuildable"
 			"Uncapturable",
-			"promotions": ["Drone Recon"],
 			]
+		"promotions": ["Drone Recon"],
 	}
 ]
