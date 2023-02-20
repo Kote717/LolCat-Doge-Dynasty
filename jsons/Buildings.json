@@ -27,7 +27,6 @@
 		"science": 2,
 		"gold": 5,
 		"culture": 1,
-		"specialistSlots": { "Administrator": 1 },
 		"cost": 25,
 		"uniques": [
 			"Provides [1] [Weapons]"
