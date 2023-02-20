@@ -39,8 +39,8 @@
 		"uniqueTo": "LolCat Kingdom",
 		"replaces": "Great General",
 		"strength": 15,
-		"hurryCostModifier": 30,
-		"cost": 85,
+		"hurryCostModifier": 125,
+		"cost": 155,
 		"unitType": "Civilian",
 		"uniques": [
 			"Can start an [6]-turn golden age",
@@ -50,7 +50,7 @@
 			"Great Person - [War]",
 			"Uncapturable",
 		],
-		"promotions": ["Gas Mask", "Entrench"],
+		"promotions": ["Awe", "Entrench"],
 		"movement": 3
 	}
 ]
