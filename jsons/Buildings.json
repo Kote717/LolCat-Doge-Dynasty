@@ -3,8 +3,9 @@
 		"name": "Meowria of Catlomocy",
 		"isWonder": true,
 		"uniqueTo": "LolCat Kingdom",
-		"culture": 1,
+		"culture": 3,
 		"cost": 1,
+	    	"cityHealth": 25,
 		"uniques": [
 			"Free [Building Squad] appears",
 			"Can only be built [in capital]",
@@ -25,10 +26,8 @@
 		"food": 2,
 		"requiredTech": "Currency",
 		"production": 1,
-		"cityHealth": 25,
 		"science": 2,
 		"gold": 5,
-		"culture": 1,
 		"cost": 25,
 		"uniques": [
 			"Provides [1] [Weapons]"
