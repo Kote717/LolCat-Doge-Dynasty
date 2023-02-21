@@ -27,7 +27,7 @@
             "Starts with [Botany]",
 	    "Starts with [Biology]",
             "[-15]% Happiness <when at war>",
-            "[+2 Gold, +2 Production, +1 Culture] per [4] population [in all cities]",
+            "[+1 Scince, +1 Culture] per [4] population [in all cities]",
 		],
 		"cities": [
 			"Catland City",
