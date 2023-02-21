@@ -70,9 +70,9 @@
 		"style": "Empire",
 		"uniqueName": "Absolute Monarchy",
 		"uniques": [
-        "Starts with [Constrction]",
+        "Starts with [Construction]",
 	"Starts with [Steel]",
-	"[+2 Gold, +3 Production]"
+	"[+3 Production] [in all cities]"
         "[+5 Production, +1 Culture] per [2] population [in all cities]",
 		],
 		"cities": [
