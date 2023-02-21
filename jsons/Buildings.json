@@ -26,8 +26,7 @@
 		"replaces": "Market",
 		"food": 2,
 		"requiredTech": "Currency",
-		"production": 1,
-		"gold": 5,
+		"gold": 3,
 		"cost": 25,
 		"uniques": [
 			"Provides [1] [Weapons]"
