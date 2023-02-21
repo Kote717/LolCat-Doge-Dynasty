@@ -4,7 +4,8 @@
 		"isWonder": true,
 		"uniqueTo": "LolCat Kingdom",
 		"culture": 3,
-		"cost": 1,
+		"cost": 1
+		"scince": 2
 	    	"cityHealth": 25,
 		"uniques": [
 			"Free [Building Squad] appears",
@@ -26,7 +27,6 @@
 		"food": 2,
 		"requiredTech": "Currency",
 		"production": 1,
-		"science": 2,
 		"gold": 5,
 		"cost": 25,
 		"uniques": [
