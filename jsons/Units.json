@@ -125,5 +125,26 @@
 		],
 		"promotions": ["Blitz", "Survivalism"],
 		"attackSound": "nonmetalhit"
-	}
+	},
+{
+		"name": "WolfHunter Cat",
+		"unitType": "Scrapper",
+		"uniqueTo": "LolCat Kingdom",
+		"replaces": "Skimisher",
+		"movement": 3,
+		"range": 1,
+		"strength": 28,
+		"rangedStrength": 45,
+		"cost": 65,
+		"hurryCostModifier": 20,
+		"uniques": [
+			"[-100]% Strength <vs cities>",
+			"May withdraw before melee ([65]%)",
+			"[+1] Sight",
+			"[+35]% Strength when stacked with [Wounded]"
+			"Consumes [3] [Weapons]",
+		],
+		"promotions": ["Formation", "Survivalism", "Amphibious", "Infantry Weapons"],
+		"attackSound": "nonmetalhit"
+	},
 ]
