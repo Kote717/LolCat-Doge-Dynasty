@@ -22,7 +22,7 @@
 		"style": "",
 		"uniqueName": "Plantes ar yumi",
 		"uniques": [
-			"[+7 Production] from all [Gold] buildings",
+			"[+5 Production] from all [Gold] buildings",
             "Starts with [Botany]",
 	    "Starts with [Biology]",
             "[-15]% Happiness <when at war>",
