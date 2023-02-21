@@ -136,7 +136,7 @@
 		"strength": 28,
 		"rangedStrength": 45,
 		"cost": 250,
-		"requiredTech": "Redomestication",
+		"requiredTech": "Iron Working",
 		"hurryCostModifier": 20,
 		"uniques": [
 			"[-100]% Strength <vs cities>",
