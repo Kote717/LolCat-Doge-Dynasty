@@ -130,7 +130,7 @@
 		"name": "WolfHunter Cat",
 		"unitType": "Scrapper",
 		"uniqueTo": "LolCat Kingdom",
-		"replaces": "Skimisher",
+		"replaces": "Skirmisher",
 		"movement": 3,
 		"range": 1,
 		"strength": 28,
