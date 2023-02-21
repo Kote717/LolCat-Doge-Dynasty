@@ -110,7 +110,7 @@
 {
 		"name": "Blitzwolf",
 		"unitType": "Scout",
-		"uniqueTo": "LolCat Kingdom",
+		"uniqueTo": "Doge Empire",
 		"replaces": "Scout",
 		"movement": 3,
 		"strength": 25,
