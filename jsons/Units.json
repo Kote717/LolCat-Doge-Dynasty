@@ -143,7 +143,7 @@
 			"May withdraw before melee ([50]%)",
 			"[+1] Sight",
 			"[+35]% Strength when stacked with [Wounded]"
-			"Consumes [3] [Weapons]",
+			"Consumes [1] [Weapons]",
 		],
 		"promotions": ["Formation", "Survivalism", "Amphibious", "Infantry Weapons"],
 		"attackSound": "nonmetalhit"
