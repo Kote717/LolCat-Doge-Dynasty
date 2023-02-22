@@ -25,7 +25,7 @@
 		"uniqueTo": "LolCat Kingdom",
 		"replaces": "Market",
 		"food": 2,
-		"requiredTech": "Currency",
+		"requiredTech": "Trade",
 		"gold": 2,
 		"cost": 25,
 		"uniques": [
