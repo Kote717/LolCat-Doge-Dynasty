@@ -140,7 +140,6 @@
 		"requiredTech": "Iron Working",
 		"hurryCostModifier": 20,
 		"uniques": [
-			"[-100]% Strength <vs cities>",
 			"May withdraw before melee ([50]%)",
 			"[+1] Sight",
 			"[+35]% Strength when stacked with [Wounded]"
