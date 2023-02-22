@@ -122,6 +122,7 @@
 			"[-100]% Strength <vs cities>",
 			"May withdraw before melee ([65]%)",
 			"[+1] Sight",
+			"Mounted",
 		],
 		"promotions": ["Blitz", "Survivalism"],
 		"attackSound": "nonmetalhit"
