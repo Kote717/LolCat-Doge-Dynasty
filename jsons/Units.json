@@ -205,6 +205,7 @@
 			"[-15]% Strength <vs cities>",
 			"May withdraw before melee ([35]%)",
 			"Consumes [1] [Weapons]",
+			"Mounted"
 		],
 		"promotions": ["Reconnaissance I", "Survivalism"],
 		"attackSound": "nonmetalhit"
