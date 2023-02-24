@@ -166,5 +166,26 @@
 		],
 		"promotions": ["Gas Mask", "Resupply", "Blitz"],
 		"movement": 2
+	},
+{
+		"name": "Crosswolf",
+		"unitType": "Scrapper",
+		"uniqueTo": "Doge Empire",
+		"replaces": "Crossbowman",
+		"movement": 3,
+		"strength": 20,
+		"range": 1,
+		"strength": 45,
+		"cost": 55,
+		"upgradesTo": "Gunman",
+		"hurryCostModifier": 20,
+		"requiredTech": "Iron Working",
+		"uniques": [
+			"Low Tech",
+			"[-15]% Strength <vs cities>",
+			"May withdraw before melee ([35]%)",
+		],
+		"promotions": ["Reconnaissance I", "Survivalism"],
+		"attackSound": "nonmetalhit"
 	}
 ]
