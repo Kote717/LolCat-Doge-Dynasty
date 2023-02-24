@@ -197,7 +197,6 @@
 		"strength": 25,
 		"rangedStrength": 55,
 		"cost": 75,
-		"upgradesTo": "Gunman",
 		"hurryCostModifier": 20,
 		"requiredTech": "Iron Working",
 		"uniques": [
