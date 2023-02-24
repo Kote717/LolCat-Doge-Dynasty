@@ -147,5 +147,23 @@
 		],
 		"promotions": ["Formation", "Survivalism", "Amphibious", "Infantry Weapons"],
 		"attackSound": "nonmetalhit"
+	},
+{
+		"name": "Wolfendal",
+		"uniqueTo": "Doge Empire",
+		"replaces": "Great General",
+		"unitType": "Civilian",
+		"uniques": [
+			"Can start an [5]-turn golden age",
+			"[+15]% Strength bonus for [Military] units within [2] tiles",
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+			"Can construct [Citadel]",
+			"Great Person - [War]",
+			"Mounted",
+			"Uncapturable",
+			"Unbuildable"
+		],
+		"promotions": ["Gas Mask", "Resupply", "Blitz"],
+		"movement": 2
 	}
 ]
