@@ -153,6 +153,7 @@
 		"uniqueTo": "Doge Empire",
 		"replaces": "Great General",
 		"unitType": "Civilian",
+		"strength": 35,
 		"uniques": [
 			"Can start an [5]-turn golden age",
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
