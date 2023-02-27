@@ -52,4 +52,15 @@
 			"Provides [1] [Weapons]"
 	]
 	}
+{
+	"name": "Beta.test.wolfs",
+		"isWonder": true,
+		"cost": 350
+		"uniqueTo": "Doge Empire",
+		"cost": 50,
+		"uniques": [
+			"Provides [1] [Weapons]",
+			"Free [Wolfifle] appears",
+	]
+	}
   ]
