@@ -53,12 +53,15 @@
 	]
 	}
 {
-	"name": "Beta.test.wolfs",
+	"name": "Wolfcencil",
 		"isWonder": true,
 		"cost": 1
 		"uniqueTo": "Doge Empire",
 		"cost": 50,
-		"uniques": [
+		"culture": 3,
+		"food": 2,
+		"production" : 5
+	"uniques": [
 			"Provides [1] [Weapons]",
 			"Free [Wolfifle] appears",
 			"Free [Crosswolf] appears",
