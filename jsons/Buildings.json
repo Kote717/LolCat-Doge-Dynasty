@@ -55,7 +55,7 @@
 {
 	"name": "Beta.test.wolfs",
 		"isWonder": true,
-		"cost": 0
+		"cost": 1
 		"uniqueTo": "Doge Empire",
 		"cost": 50,
 		"uniques": [
