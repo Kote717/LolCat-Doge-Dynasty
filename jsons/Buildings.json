@@ -47,7 +47,6 @@
 		"cost": 350
 		"uniqueTo": "LolCat Kingdom",
 		"requiredTech": "Iron Working",
-		"cost": 50,
 		"uniques": [
 			"Provides [1] [Weapons]"
 	]
@@ -57,7 +56,6 @@
 		"isWonder": true,
 		"cost": 1
 		"uniqueTo": "Doge Empire",
-		"cost": 50,
 		"culture": 3,
 		"food": 2,
 		"production" : 5
