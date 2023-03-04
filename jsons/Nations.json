@@ -74,7 +74,7 @@
         "Starts with [Construction]",
 	"Starts with [Steel]",
 	"[+3 Production] [in all cities]"
-        "[+5 Production, +1 Culture] per [2] population [in all cities]",
+        "[+1 Production, +1 Culture] per [2] population [in all cities]",
 		],
 		"cities": [
 			"Wolfenstein",
