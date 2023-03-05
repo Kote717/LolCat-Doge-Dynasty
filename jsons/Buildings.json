@@ -44,11 +44,15 @@
 	{
 	"name": "WolfHunter Guild",
 		"isWonder": true,
-		"cost": 350
+		"cost": 350,
+		"gold": 2,
+		"production":2,
 		"uniqueTo": "LolCat Kingdom",
 		"requiredTech": "Iron Working",
 		"uniques": [
 			"Provides [1] [Weapons]"
+			"Free [WolfHunter Cat] appears",
+			"Free [WolfHunter Cat] appears",
 	]
 	}
 {
@@ -58,7 +62,7 @@
 		"uniqueTo": "Doge Empire",
 		"culture": 3,
 		"food": 2,
-		"production" : 3
+		"production":2
 	"uniques": [
 			"Free [Crosswolf] appears",
 			"Free [Crosswolf] appears",
