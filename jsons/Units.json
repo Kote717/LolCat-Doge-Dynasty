@@ -42,8 +42,8 @@
 		"rangedStrength": 35,
 		"range": 1,
 		"strength": 15,
-		"hurryCostModifier": 125,
-		"cost": 225,
+		"hurryCostModifier": 55,
+		"cost": 125,
 		"uniques": [
 			"[+25]% Strength <vs [Low Tech] units>",
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
@@ -136,7 +136,7 @@
 		"range": 1,
 		"strength": 28,
 		"rangedStrength": 45,
-		"cost": 250,
+		"cost": 125,
 		"requiredTech": "Iron Working",
 		"hurryCostModifier": 20,
 		"uniques": [
