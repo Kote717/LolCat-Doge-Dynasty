@@ -47,52 +47,5 @@
 			"Cattograd",
 			"Paw-burg"
 		]
-	},
-	{
-		"name": "Doge Empire",
-		"leaderName": "King Woofram",
-		"adjective": ["World Control"],
-		"startBias": ["Badlands"],
-		"preferredVictoryType": "Domination",
-		"favoredReligion": "Posadism",
-
-		"startIntroPart1": "You think that umans are the worst in this world nuclear war, war crimes genocide and annexing other's territory. But humans have born another civlization, and that is Doge Empire. Which even worse then humans. They always wanted to create genocide against cat race but you can finnish this by destrying them or having peace and allince. It's up to you.",
-		"startIntroPart2": "Go on, repair this broken world, or destry it once and for all.",
-		"declaringWar": "Woof! Woof! You didn't deserve to have woofdom... Freedom! Freedom in not free! So I'll took it from you!",
-		"attacked": "Wooft you wa thinkink doing? You want to take my freedom? Woof! We will fight to death and our force will in fact damage you criticly",
-		"defeated": "Nooooo! How did you deafeat me I waned to have a friendly fight but you annexed my tewwitovy but I'll silnetly waiwt if someone wil liberate me! From u!",
-		"introduction": "Heglo wooflander, I'm Woofram the king of Doge Empire, I'm here to reclaim this world and liberate it from mutants of all kind!",
-		"neutralHello": "Didn't see you there wooflander",
-		"hateHello": "Have you got any fillings? Or Thoughts what you done wooflander?",
-		"tradeRequest": "Here some fair guides? Haha! This what my old friend of mine would say, here balanced trade",
-
-		"outerColor": [255, 193, 0],
-		"innerColor": [119, 94, 67],
-		"style": "Empire",
-		"uniqueName": "Absolute Monarchy",
-		"uniques": [
-        "Starts with [Construction]",
-	"Starts with [Steel]",
-	"[+2 Production] [in all cities]"
-        "[+1 Production, +1 Culture] per [2] population [in all cities]",
-		],
-		"cities": [
-			"Wolfenstein",
-			"Woofgrad",
-			"Barkendal",
-			"Golden Claw city",
-			"Saber City",
-			"Scarclaw",
-			"bark-o-grad",
-			"Death Skull",
-			"Doge Box",
-			"Hollydog",
-			"Fort Shiba",
-			"Clawgrad",
-			"Dogunsk",
-			"Glorias",
-			"Scarburg",
-			"Wooflien"
-		]
 	}
 		]
