@@ -44,7 +44,7 @@
 	{
 	"name": "WolfHunter Guild",
 		"isWonder": true,
-		"cost": 215,
+		"cost": 500,
 		"gold": 2,
 		"production":2,
 		"uniqueTo": "LolCat Kingdom",
