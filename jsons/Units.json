@@ -76,7 +76,7 @@
 		"uniqueTo": "LolCat Kingdom",
 		"replaces": "Artillery",
 		"unitType": "Siege",
-		"range": 8,
+		"range": 3,
 		"movement": 1,
 		"strength": 12,
 		"rangedStrength": 45,
