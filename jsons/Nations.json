@@ -23,7 +23,7 @@
 		"uniqueName": "Plantes ar yumi",
 		"uniques": [
 			"[+5 Science] from all [Gold] buildings",
-			"[+2 Production] from [Moisture trap] tiles [in all cities]"
+			"[+1 Production] from [Moisture trap] tiles [in all cities]"
             "Starts with [Botany]",
 	    "Starts with [Biology]",
             "[-15]% Happiness <when at war>",
