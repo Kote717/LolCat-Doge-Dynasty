@@ -78,8 +78,8 @@
 		"unitType": "Siege",
 		"range": 3,
 		"movement": 1,
-		"strength": 12,
-		"rangedStrength": 45,
+		"strength": 15,
+		"rangedStrength": 55,
 		"cost": 215,
 		"requiredTech": "Munitions",
 		"uniques": [
