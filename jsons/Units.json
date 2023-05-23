@@ -97,7 +97,7 @@
 		"uniqueTo": "LolCat Kingdom",
 		"unitType": "Civilian",
 		"cost": 0,
-		"movement": -1,
+		"movement": 1,
 		"requiredTech": "Engineering",
 		"uniques": [
 			"[5] Sight",
@@ -105,7 +105,7 @@
 			"Unbuildable"
 			"Uncapturable",
 			],
-		"promotions": ["Drone Recon","Advanced Sensors"],
+		"promotions": ["Drone Recon","Advanced Sensors"]
 	},
 {
 		"name": "Blitzwolf",
