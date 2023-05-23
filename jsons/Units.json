@@ -104,7 +104,7 @@
 			"Never appears as a Barbarian unit"
 			"Unbuildable"
 			"Uncapturable",
-			]
+			],
 		"promotions": ["Drone Recon","Advanced Sensors"],
 	},
 {
