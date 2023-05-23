@@ -105,7 +105,7 @@
 			"Unbuildable"
 			"Uncapturable",
 			]
-		"promotions": ["Advanced Sensors"],
+		"promotions": ["Drone Recon","Advanced Sensors"],
 	},
 {
 		"name": "Blitzwolf",
@@ -145,7 +145,7 @@
 			"[+35]% Strength when stacked with [Wounded]"
 			"Consumes [1] [Weapons]",
 		],
-		"promotions": ["Formation", "Survivalism", "Amphibious", "Infantry Weapons"],
+		"promotions": ["Survivalism", "Amphibious", "Infantry Weapons"],
 		"attackSound": "nonmetalhit"
 	},
 {
