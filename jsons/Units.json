@@ -105,7 +105,7 @@
 			"Unbuildable"
 			"Uncapturable",
 			]
-		"promotions": ["Drone Recon", "Advanced Sensors"],
+		"promotions": ["Advanced Sensors"],
 	},
 {
 		"name": "Blitzwolf",
