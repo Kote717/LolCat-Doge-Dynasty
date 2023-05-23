@@ -208,25 +208,5 @@
 		],
 		"promotions": ["Reconnaissance I", "Survivalism"],
 		"attackSound": "nonmetalhit"
-	},
-{
-		"name": "Spy",
-		"unitType": "Scrapper",
-		"uniqueTo": "LolCat Kingdom",
-		"movement": 2,
-		"strength": 25,
-		"cost": 125,
-		"hurryCostModifier": 50,
-		"uniques": [
-			"Low Tech",
-			"[-75]% Strength <vs cities>",
-			"May withdraw before melee ([45]%)",
-			"[+2] Sight",
-			"May enter foreign tiles without open borders",
-			"May Paradrop up to [4] tiles from inside friendly territory",
-			
-		],
-		"promotions": ["Survivalism"],
-		"attackSound": "nonmetalhit"
 	}
 ]
