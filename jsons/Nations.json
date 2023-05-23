@@ -18,16 +18,15 @@
 		"tradeRequest": "Here some fair and tasty gudies!",
 
 		"outerColor": [27, 26, 117],
-		"innerColor": [127, 122, 255],
+		"innerColor": [80, 44, 219],
 		"style": "",
 		"uniqueName": "Plantes ar yumi",
 		"uniques": [
-			"[+1 Science] from all [Gold] buildings",
-			"[+1 Production] from [Moisture trap] tiles [in all cities]"
+			"[+7 Production] from all [Gold] buildings",
             "Starts with [Botany]",
 	    "Starts with [Biology]",
             "[-15]% Happiness <when at war>",
-            "[+1 Scince, +1 Culture] per [4] population [in all cities]",
+            "[+2 Gold, +2 Production, +1 Culture] per [4] population [in all cities]",
 		],
 		"cities": [
 			"Catland City",
